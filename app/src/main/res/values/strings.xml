@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BS-App</string>
+    <string name="ss">*****</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="clear">CLEAR</string>
+    <string name="open_calculator">OPEN CALCULATOR</string>
+    <string name="add">ADD</string>
+</resources>
